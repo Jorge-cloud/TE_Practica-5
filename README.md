@@ -6,4 +6,5 @@ JORGE LUIS FLORES SILVA
 
 base de datos 
 usuario:   jorge
-passwor:   1234
+
+password:   1234
